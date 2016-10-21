@@ -1,4 +1,5 @@
 [![Stories in Ready](https://badge.waffle.io/CreatorDev/openwrt.png?label=ready&title=Ready)](https://waffle.io/CreatorDev/openwrt)
+[![Stories in Ready](https://badge.waffle.io/CreatorDev/openwrt.png?label=ready&title=Ready)](https://waffle.io/CreatorDev/openwrt)
 
 ![Creator logo](creatorlogo.png)
 
